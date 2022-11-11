@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">SimulacroExamen03</string>
+    <string name="action_settings">Settings</string>
+
+    <string-array name="spinner_equipos">
+        <item>Selecciona un equipo</item>
+        <item>Valencia F.C</item>
+        <item>Real Madrid</item>
+        <item>Barcelona</item>
+    </string-array>
+</resources>
